@@ -45,7 +45,9 @@
 
 ## 📝 Blog
 
-- Coming Soon...
+- https://jessiecodes-portfolio.herokuapp.com/blog
+![image](https://user-images.githubusercontent.com/51688932/190184387-d33e78af-79b4-4854-937f-b3b32e696446.png)
+
 
 <br>
 </br>
