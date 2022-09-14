@@ -46,7 +46,8 @@
 ## 📝 Blog
 
 - https://jessiecodes-portfolio.herokuapp.com/blog
-![image](https://user-images.githubusercontent.com/51688932/190184387-d33e78af-79b4-4854-937f-b3b32e696446.png)
+![image](https://user-images.githubusercontent.com/51688932/190266693-b80c5f10-1d22-498d-9ed5-636447002fe3.png)
+
 
 
 <br>
