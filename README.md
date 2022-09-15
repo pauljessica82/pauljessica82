@@ -8,6 +8,8 @@
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/jessica-paul-a1ba6520b/"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/linkedin.png" alt="Jessica Paul| LinkedIn" width="21px"/></a>
+<a href="mailto:jessiecodes380@gmail.com?Subject=Hello%20Jess%20-from-website"><img align="left" src="https://github.com/pauljessica82/flaskPortfolio/blob/main/static/images/gmail.png" alt="Jessica Paul| Gmail" width="21px"/></a>
+
 <br>
 </br>
 
