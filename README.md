@@ -21,6 +21,8 @@
 
 ## 💼 Technical Skills
 
+![REACT](https://img.shields.io/badge/REACT-REACT-%2361DAFB?&style=for-the-badge&logo=react)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-POSTGRESQL-%234169E1?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
