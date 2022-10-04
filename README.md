@@ -59,8 +59,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pauljessica82)](https://github.com/pauljessica82)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauljessica82)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauljessica82&layout=compact)](https://github.com/pauljessica82)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=pauljessica82.pauljessica82)](https://github.com/pauljessica82)
